@@ -13,13 +13,12 @@ text: I work on post-training, multimodal, and AI Infra.
 ## Links
 
 - Email | mailto:zhecao181@gmail.com | mail | active
-- CV | /Jiaming_Wang_CV.pdf | file | active
 - GitHub | https://github.com/MichaelCao0 | github | active
 - Google Scholar | https://scholar.google.com/citations?user=p-Rt0KUAAAAJ&hl=zh-CN | scholar | active
 
 ## About
 
-I am an undergraduate  at Nanjing University.
+I am an undergraduate student at Nanjing University.
 
 ## Research Interests
 

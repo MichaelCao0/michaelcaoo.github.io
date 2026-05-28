@@ -1,6 +1,6 @@
 - 2026-5 | 🎊 T2AV-Compass is accepted by ICML 2026 Poster.
 - 2026-4 | ✨ T2AV-Compass is accepted by CVPR 2026 VGBE Oral(Short Papers).
 - 2026-4 | 📷 Join Insta360.
-- 2026-1 | ✨ Two paper on model evaluation are accepted by ICLR 2026 Poster.
+- 2026-1 | ✨ Two papers on model evaluation are accepted by ICLR 2026 Poster.
 - 2026-1 | 📷 Join Agibot.
 - 2025-9 | 📷 Intern at THUNLP.
