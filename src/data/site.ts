@@ -125,7 +125,7 @@ export const navigation = [
 ];
 
 export const profile = {
-  name: homeMarkdown.match(/^# (.+)$/m)?.[1] ?? "Jiaming Wang",
+  name: homeMarkdown.match(/^# (.+)$/m)?.[1] ?? "Zhe Cao",
   affiliation: profileFields.affiliation ?? "",
   role: profileFields.role ?? "",
   line: profileFields.line ?? "",

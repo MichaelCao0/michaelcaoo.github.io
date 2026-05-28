@@ -1,68 +1,71 @@
-## Winning the Pruning Gamble: A Unified Approach to Joint Sample and Token Pruning for Efficient Supervised Fine-Tuning
-
-meta: ICLR 2026 DATA-FM
-authors:Jiaming Wang*, Shaobo Wang*, Jiajun Zhang*, Cong Wang, Yue Min, Zichen Wen, Fei Huang, Huiqiang Jiang, Junyang Lin, Dayiheng Liu, Linfeng Zhang†
-image: /publications/q-tuning.png
-imageFit: contain
-links: Arxiv|https://arxiv.org/abs/2509.23873, Code|https://github.com/gszfwsb/Q-tuning, Project Page|https://gszfwsb.github.io/Q-tuning/
-
-## Train in Vain: Functionality-Preserving Poisoning to Prevent Unauthorized Use of Code Datasets
-
-meta: ACL 2026 Findings
-authors:Jiaming Wang*, Yuan Xiao*, Yuchen Chen*, Wei Song, Jun Sun, Shiqing Ma, Yanzhou Mu, Juan Zhai, Chunrong Fang†, Jin Song Dong, Zhenyu Chen†
-image: /publications/previews/funpoison.png
-imageFit: contain
-links: Arxiv|https://arxiv.org/abs/2604.22291, Code|https://github.com/xiaoyuanpigo/FunPoison
-
 ## T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation
 
 meta: ICML 2026 | CVPR 2026 VGBE Oral
-authors:Zhe Cao*, Tao Wang*, Jiaming Wang*, Yanghai Wang*, Yuanxing Zhang, Jialu Chen, Miao Deng, Jiahao Wang, Yubin Guo, Chenxi Liao, Yize Zhang, Zhaoxiang Zhang, Jiaheng Liu†
+authors:Zhe Cao*, Tao Wang*, Jiaming Wang*, Yanghai Wang*, Yuanxing Zhang, Jialu Chen, Miao Deng, Jiahao Wang, Yubin Guo, Chenxi Liao, Yize Zhang, Zhaoxiang Zhang, Jiaheng Liu
 image: /publications/previews/t2av-compass.png
 imageFit: contain
 links: Arxiv|https://arxiv.org/abs/2512.21094f, Code|https://github.com/NJU-LINK/T2AV-Compass, Data|https://huggingface.co/datasets/NJU-LINK/T2AV-Compass, Project Page|https://github.com/NJU-LINK/T2AV-Compass.github.io
 
-## Where Do Deep-Research Agents Go Wrong? Span-Level Error Localization in Agent Trajectories
+## AVSCap: Orchestrating Audio-Visual Synergy for Omni-modal Video Captioning
 
 meta: Under Review
-authors:Jiaming Wang*, Ziteng Feng*, Jiangtao Wu, Ruihao Li, Qianqian Xie, Yuxiang Ren, He Zhu, Xueming Han, Fanyu Meng, Junlan Feng, Jiaheng Liu†
-image: /publications/previews/agenterr.png
-imageFit: contain
-links: PDF|/publications/drqa.pdf
-
-## CoVEBench: Can Video Editing Models Handle Complex Instructions?
-
-meta: Under Review
-authors:Jiangtao Wu*, Jiaming Wang*, Yiwen He*, Yuanxing Zhang, Jialu Chen, Shihao Li, Dunyuan Liu, Xuedong Zhao, Jiaheng Liu†
-image: /publications/previews/CoVEdit.png
+authors:Yanghai Wang, Jiahao Wang, Jiafu Tang, Yuanxing Zhang, Zhe Cao, Hanyan Bian, Zijie Zhang, Weiliang Luo, Zhiyu Pan, Zixuan Dong, Jiaheng Liu, Zhaoxiang Zhang
+image: /publications/previews/avscap.png
 imageFit: contain
 links: 
 
+## OmniHalluc-L: Counterfactual Benchmarking and Modality-Perturbation Calibration for Long-Form Omni Hallucination
 
-## Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?
-meta:
-authors:Qianshan Wei, Yishan Yang, Siyi Wang, Jinglin Chen, Binyu Wang, Jiaming Wang, Shuang Chen, Zechen Li, Yang Shi, Yuqi Tang, Weining Wang, Yi Yu, Chaoyou Fu, Qi Li, Yi-Fan Zhang†
-image: /publications/previews/agenticmme.png
+meta: Under Review
+authors:Zixuan Dong, Jiafu Tang, Zhide Lei, Zhe Cao, Zijie Zhang, Yanghai Wang, Shihao Li, Xiaodong Wang, Baoyun Peng, Jiaheng Liu
+image: /publications/previews/omnihalluc-l.png
 imageFit: contain
-links: Arxiv|https://arxiv.org/abs/2604.03016, Code|https://github.com/ChoS3nE11ven/Agentic-MME, Data|https://huggingface.co/datasets/Crystal1047/Agentic-MME, Project Page|https://agenticmme.github.io/
+links: 
 
-## ContextBench: A Benchmark for Context Retrieval in Coding Agents
-meta:
-authors:Han Li, Letian Zhu, Bohan Zhang, Rili Feng, Jiaming Wang, Yue Pan, Earl T Barr, Federica Sarro, Zhaoyang Chu†, He Ye†
-image: /publications/previews/contextbench.png
-imageFit: contain
-links: Arxiv|https://arxiv.org/abs/2602.05892, Code|https://github.com/EuniAI/ContextBench, Data|https://huggingface.co/datasets/Contextbench/ContextBench, Project Page|https://contextbench.github.io/
+## LVSG-Bench: Towards Benchmarking Long-form Video Script Generation Capabilities of Multimodal LLMs
 
-## CodeTracer: Towards Traceable Agent 
-meta:
-authors:Han Li, Yifan Yao, Letian Zhu, Rili Feng, Hongyi Ye, Jiaming Wang, Yancheng He, Pengyu Zou, Lehan Zhang, Xinping Lei, Haoyang Huang, Ken Deng, Ming Sun, Zhaoxiang Zhang, He Ye, Jiaheng Liu†
-image: /publications/previews/codetracer.png
+meta: Under Review
+authors:Yanghai Wang, Zhe Cao, Yuanxing Zhang, Yifan Yao, Jiahao Wang, Liang Gong, Zijie Zhang, Zhiyu Pan, Zhidong Gan, Minxin Dai, Yonghong Lin, Shihao Li, Qianqian Xie, Xintao Wang, Jiaheng Liu, Zhaoxiang Zhang
+image: /publications/previews/lsvgbench.png
 imageFit: contain
-links: Arxiv|https://arxiv.org/abs/2604.11641, Code|https://github.com/NJU-LINK/CodeTracer, Data|https://huggingface.co/datasets/NJU-LINK/CodeTraceBench, Project Page|https://nju-link.github.io/CodeTracer/
+links: 
 
-## A Survey of Linear Attention: Algorithm, Theory, Application, and Infrastructure
-meta: Survey
-authors: Yudong Zhang, Weixuan Sun, Xingwu Sun, Wei Ding, Ruiqi Xie, Hongyi Wang, Junjie Chen, Jiacheng Liu, Shaobo Wang, Yuwei Zhang, Yiqing Huang, Jiaming Wang, Tianchen Zhao, Weidong Han, Yanfeng Chen, Kai Zhang, Shuaipeng Li, Ruobing Xie†, Di Wang, Jiansheng Chen, Linfeng Zhang†, Chengzhong Xu, Yu Wang†
-imageLabel: Linear Attention
+## SafeDialBench: A Fine-Grained Safety Evaluation Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks
+
+meta: ICLR 2026
+authors:Hongye Cao, Sijia Jing, Yanming Wang, Ziyue Peng, Zhixin Bai, Zhe Cao, Meng Fang, Fan Feng, Boyan Wang, Jiaheng Liu, Tianpei Yang, Jing Huo, Yang Gao, Fanyu Meng, Xi Yang, Chao Deng, Junlan Feng
+image: /publications/previews/safedialbench.png
 imageFit: contain
-links: TechArxiv|https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177032877.70562626/v1, Code|https://github.com/btzyd/Awesome-Linear-Attention-Survey
+links: Arxiv|https://arxiv.org/abs/2502.11090
+
+## The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook
+
+meta: arXiv 2026
+authors:Xinlei Yu, Zhangquan Chen, Yongbo He, Tianyu Fu, Cheng Yang, Chengming Xu, Yue Ma, Xiaobin Hu, Zhe Cao, Jie Xu, Guibin Zhang, Jiale Tao, Jiayi Zhang, Siyuan Ma, Kaituo Feng, Haojie Huang, Youxing Li, Ronghao Chen, Huacan Wang, Chenglin Wu, Zikun Su, Xiaogang Xu, Kelu Yao, Kun Wang, Chen Gao, Yue Liao, Ruqi Huang, Tao Jin, Cheng Tan, Jiangning Zhang, Wenqi Ren, Yanwei Fu, Yong Liu, Yu Wang, Xiangyu Yue, Yu-Gang Jiang, Shuicheng Yan
+image: /publications/previews/latentspace.png
+imageFit: contain
+links: Arxiv|https://arxiv.org/abs/2604.02029
+
+## Frontier-Eng: Benchmarking Self-Evolving Agents on Real-World Engineering Tasks with Generative Optimization
+
+meta: arXiv 2026
+authors:Yizhe Chi, Deyao Hong, Dapeng Jiang, Tianwei Luo, Kaisen Yang, Boshi Zhang, Zhe Cao, Xiaoyan Fan, Bingxiang He, Han Hao, Weiyang Jin, Dianqiao Lei, Qingle Liu, Houde Qian, Bowen Wang, Situ Wang, Youjie Zheng, Yifan Zhou, Calvin Xiao, Eren Cai, Qinhuai Na
+image: /publications/previews/frontier-eng.png
+imageFit: contain
+links: Arxiv|https://arxiv.org/abs/2604.12290
+
+## RoboRouter: Training-Free Policy Routing for Robotic Manipulation
+
+meta: arXiv 2026
+authors:Yiteng Chen, Zhe Cao, Hongjia Ren, Chenjie Yang, Wenbo Li, Shiyi Wang, Yemin Wang, Li Zhang, Yanming Shao, Zhenjun Zhao, Huiping Zhuang, Qingyao Wu
+image: /publications/previews/roborouter.png
+imageFit: contain
+links: Arxiv|https://arxiv.org/abs/2603.07892
+
+## OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni MLLMs
+
+meta: ICLR 2026
+authors:Caorui Li, Yu Chen, Yiyan Ji, Jin Xu, Zhenyu Cui, Shihao Li, Yuanxing Zhang, Wentao Wang, Zhenghao Song, Dingling Zhang, Ying He, Haoxiang Liu, Yuxuan Wang, Qiufeng Wang, Jiafu Tang, Zhenhe Wu, Jiehui Luo, Zhiyu Pan, Weihao Xie, Chenchen Zhang, Zhaohui Wang, Jiayi Tian, Yanghai Wang, Zhe Cao, Minxin Dai, Ke Wang, Runzhe Wen, Yinghao Ma, Yaning Pan, Sungkyun Chang, Termeh Taheri, Haiwen Xia, Christos Plachouras, Emmanouil Benetos, Yizhi Li, Ge Zhang, Jian Yang, Tianhao Peng, Zili Wang, Minghao Liu, Junran Peng, Zhaoxiang Zhang, Jiaheng Liu
+image: /publications/previews/omnivideobench.png
+imageFit: contain
+links: Arxiv|https://arxiv.org/abs/2510.10689

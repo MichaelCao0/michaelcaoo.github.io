@@ -3,9 +3,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Jiaming Wang",
+  title: "Zhe Cao",
   description:
-    "Personal academic homepage for Jiaming Wang, featuring research in efficient LLM post-training, multimodal evaluation, code intelligence, and agents.",
+    "Personal academic homepage for Zhe Cao, featuring research in LLMs, MLLMs, robot learning, evaluation, model quantization, and AI infrastructure.",
 };
 
 export default function RootLayout({

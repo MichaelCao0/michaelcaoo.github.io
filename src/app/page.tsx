@@ -103,7 +103,7 @@ function getVenueTone(label: string) {
 }
 
 function AuthorList({ authors }: { authors: string }) {
-  const name = "Jiaming Wang";
+  const name = profile.name;
   const parts = authors.split(name);
 
   return (
@@ -126,7 +126,7 @@ export default function Home() {
       <header className="topbar">
         <div className="topbar-inner">
           <div className="topbar-brand">
-            <span className="topbar-name">Jiaming Wang</span>
+            <span className="topbar-name">{profile.name}</span>
             <span className="topbar-role">academic homepage</span>
           </div>
           <nav className="topbar-nav">
@@ -150,7 +150,7 @@ export default function Home() {
               <div className="portrait-shell">
                 <Image
                   src="/avatar-main.jpg"
-                  alt="Portrait of Jiaming Wang"
+                  alt={`Portrait of ${profile.name}`}
                   fill
                   priority
                   sizes="(max-width: 1024px) 34vw, 208px"
